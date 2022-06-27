@@ -1,6 +1,6 @@
 ### Hello! I'm Gabriel Aquino. 👋👨🏻‍💻
 
-- 🔭 I'm currently working on developing SAP UI5 applications and maintaining ABAP and HANA services.
+- 🔭 I'm currently working on developing SAP UI5 applications and maintaining ABAP and HANA services (SAP Technologies).
 - 🌱 I’m currently learning Technologies SAP: UI5, ABAP and HANA.
 - 🎯 Aspire specialization in SAP UI5 and Front-End Development 😍.
 - ➡️ Here you will see only my Personal Projects.
