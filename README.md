@@ -1,12 +1,12 @@
 ### Hello! I'm Gabriel Silva. 👋👨🏻‍💻
 
-- 🔭 I'm currently working on developing SAP UI5 applications and maintaining ABAP and HANA services (SAP Technologies).
-- 🌱 I’m currently learning Technologies SAP: UI5, ABAP and HANA.
-- 🎯 Aspire specialization in SAP Developer 😍.
-- ➡️ Here you will see only my Personal Projects.
-- 👨🏻‍🎓 Graduated in Systems Analysis and Development.
-- 😄 Pronouns: (Ele / Dele / He / Him).
-- I'm from Brazil.
+- I'm from Brazil
+- 🔭 I'm currently working on developing SAP UI5 applications and maintaining ABAP and HANA services (SAP Technologies)
+- 🌱 I’m currently learning Technologies SAP: UI5, ABAP and HANA
+- 🎯 Aspire specialization in SAP Developer 😍
+- ➡️ Here you will see only my Personal Projects
+- 👨🏻‍🎓 Graduated in Systems Analysis and Development
+- 😄 Pronouns: (Ele / Dele / He / Him)
 
 ##
   
