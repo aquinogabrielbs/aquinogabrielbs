@@ -35,7 +35,7 @@
 
 ---
 
-## Experience
+### Experience
 
 - Started with SAP UI5 and corporate frontend projects
 - Progressed to ABAP and HANA BW in SAP environments
@@ -44,7 +44,7 @@
 
 ---
 
-## Personal Highlights
+### Personal Highlights
 
 - Strong focus on SAP solutions and user experience
 - Hybrid profile: SAP professional and enthusiast of modern tools
