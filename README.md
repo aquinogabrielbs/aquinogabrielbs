@@ -7,7 +7,7 @@
 - 🤖 GenAI enthusiast using AI to accelerate development and personal exploration
 - ➡️ Portfolio focused on personal projects with SAP and modern frontend experience
 - 👨🏻‍🎓 Graduated in Systems Analysis and Development
-- 😄 Pronouns: (He / Him)
+- 🧔🏻‍♂️ Pronouns: (He / Him)
 
 ---
 
@@ -35,21 +35,21 @@
 
 ---
 
-### Experience
+### Experience 💼
 
-- Started with SAP UI5 and corporate frontend projects
-- Progressed to ABAP and HANA BW in SAP environments
-- Applied GenAI in prototypes and documentation
-- Developed a personal portfolio focused on real projects
+- 🚀 Started with SAP UI5 and corporate frontend projects
+- 📈 Progressed to ABAP and HANA BW in SAP environments
+- 🤖 Applied GenAI in prototypes and documentation
+- 🎯 Developed a personal portfolio focused on real projects
 
 ---
 
-### Personal Highlights
+### Personal Highlights ✨
 
-- Strong focus on SAP solutions and user experience
-- Hybrid profile: SAP professional and enthusiast of modern tools
-- Continuous learning with AI and emerging technologies
-- Practical delivery mindset and constant improvement
+- 💡 Strong focus on SAP solutions and user experience
+- 🔄 Hybrid profile: SAP professional and enthusiast of modern tools
+- 📚 Continuous learning with AI and emerging technologies
+- ⚡ Practical delivery mindset and constant improvement
 
 ---
 
